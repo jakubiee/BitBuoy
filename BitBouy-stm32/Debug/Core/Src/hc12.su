@@ -1,0 +1,3 @@
+../Core/Src/hc12.c:7:6:HC12_Init	16	static
+../Core/Src/hc12.c:12:6:HC12_Send_Message	56	static
+../Core/Src/hc12.c:24:6:HC12_Send_Data_With_Confirmation	176	static

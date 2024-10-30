@@ -1,0 +1,2 @@
+../Core/Src/hts221.c:5:6:HTS221_ReadCalibration	1
+../Core/Src/hts221.c:34:7:HTS221_ReadHumidity	3

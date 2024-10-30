@@ -1,0 +1,2 @@
+../Core/Src/stlm75.c:3:6:STLM75_Init	1
+../Core/Src/stlm75.c:7:19:STLM75_ReadTemperature	2

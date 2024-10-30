@@ -1,0 +1,2 @@
+../Core/Src/stlm75.c:3:6:STLM75_Init	16	static
+../Core/Src/stlm75.c:7:19:STLM75_ReadTemperature	40	static
